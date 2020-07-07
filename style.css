@@ -26,3 +26,36 @@
     cursor: pointer;
 
 }
+
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+.cat1{
+    background-image: linear-gradient(60deg, orange,yellow);
+    
+}
+
+.cat2{
+    background-image: linear-gradient(60deg, purple, orchid);
+    
+}
+
+.cat3{
+
+    background-image: linear-gradient(60deg, navy, blue) ;
+    
+}
+
+.categories h1{
+
+    color: white;
+
+}
+
+.categories img{
+
+    width: 100px;
+}
